@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baseframe.iml" filepath="$PROJECT_DIR$/baseframe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseframe-api/baseframe-api.iml" filepath="$PROJECT_DIR$/baseframe-api/baseframe-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseframe-config/baseframe-config.iml" filepath="$PROJECT_DIR$/baseframe-config/baseframe-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseframe-controller/baseframe-controller.iml" filepath="$PROJECT_DIR$/baseframe-controller/baseframe-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseframe-dao/baseframe-dao.iml" filepath="$PROJECT_DIR$/baseframe-dao/baseframe-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseframe-service/baseframe-service.iml" filepath="$PROJECT_DIR$/baseframe-service/baseframe-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baseframe-test/baseframe-test.iml" filepath="$PROJECT_DIR$/baseframe-test/baseframe-test.iml" />
+    </modules>
+  </component>
+</project>
